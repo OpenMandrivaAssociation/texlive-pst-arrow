@@ -1,6 +1,6 @@
 Name:		texlive-pst-arrow
 Version:	61069
-Release:	1
+Release:	2
 Summary:	Special arrows for PSTricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-arrow
