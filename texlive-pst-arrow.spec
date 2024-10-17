@@ -3,7 +3,7 @@ Version:	61069
 Release:	2
 Summary:	Special arrows for PSTricks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-arrow
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pst-arrow
 License:	lppl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-arrow.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-arrow.doc.r%{version}.tar.xz
